@@ -3,6 +3,10 @@
 
 <a href="https://github.com/VritraSecz"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VritraSecz&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="center">
 <br>
   <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
@@ -10,10 +14,10 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
