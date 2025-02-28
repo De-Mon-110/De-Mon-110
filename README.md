@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 -->
 
 [`Basic-Commands`](https://github.com/De-Mon-110/Basic-Commands)
+[`Intermediate-Commands`](https://github.com/De-Mon-110/De-Mon-110/blob/main/Intermediate-Commands)
