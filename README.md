@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Basic-Commands](docs\Basic-Commands)
