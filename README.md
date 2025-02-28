@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Basic-Commands](De-Mon-110/Basic-Commands)
+[Basic-Commands](docs/Basic-Commands)
