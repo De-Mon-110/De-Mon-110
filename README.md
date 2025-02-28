@@ -1,4 +1,14 @@
 # De_Mon Hacker.com
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+<a href="https://github.com/VritraSecz"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VritraSecz&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<p align="center">
+<br>
+  <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -18,13 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p align="center">
-<br>
-  <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
-
 <!--
 **De-Mon-110/De-Mon-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,5 +43,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/VritraSecz"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VritraSecz&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
