@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Basic-Commands](https://github.com/De-Mon-110/De-Mon-110/commit)
+[Basic-Commands](https://github.com/De-Mon-110/Basic-Commands)
