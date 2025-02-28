@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-**Fb.**  [`Con Stantine`](https://www.facebook.com/share/14CiLV3XLm/) \,[`IG`](https://www.instagram.com/8511_mon?igsh=azlxNXhrdTRudnk0) \,[`Twiter`](https://x.com/dargni66403?t=ES-4TP_wY0XYqtAMK2F2ug&s=09)
+**Fb.**  [`Con Stantine`](https://www.facebook.com/share/14CiLV3XLm/) \,[`IG`](https://www.instagram.com/8511_mon?igsh=azlxNXhrdTRudnk0) \, [`Twiter`](https://x.com/dargni66403?t=ES-4TP_wY0XYqtAMK2F2ug&s=09)
 <!--
 **De-Mon-110/De-Mon-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
