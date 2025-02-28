@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[`Basic-Commands`](https://github.com/De-Mon-110/Basic-Commands)
-[`Intermediate-Commands`](https://github.com/De-Mon-110/De-Mon-110/blob/main/Intermediate-Commands)
+## Commands • 📖📚 = ✨🧠✨
+1. [`Basic-Commands`](https://github.com/De-Mon-110/Basic-Commands) , 2.
+[`Intermediate-Commands`](https://github.com/De-Mon-110/Intermediate-Commands) , 3.……
