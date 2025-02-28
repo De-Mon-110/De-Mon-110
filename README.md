@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Don't find any meaning in this _`account`_.**  😉
-1|2|3|
-|--|--|--|
 
+### Interests & Hobbies 🎯
+- Cybersecurity research and reverse engineering.
+- Learning and experimenting with new technologies and programming languages.
+- Engaging with the open-source community and sharing knowledge.
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/VritraSecz"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VritraSecz&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
