@@ -40,11 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Interests & Hobbies 🎯
-- Cybersecurity research and reverse engineering.
-- Learning and experimenting with new technologies and programming languages.
-- Engaging with the open-source community and sharing knowledge.
-- **Fb.**  [`Con Stantine`](https://www.facebook.com/share/14CiLV3XLm/) \,[`IG`](https://www.instagram.com/8511_mon?igsh=azlxNXhrdTRudnk0) \, [`Twiter`](https://x.com/dargni66403?t=ES-4TP_wY0XYqtAMK2F2ug&s=09)
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/VritraSecz"><img width=550 src="https://github-profile-trophy.vercel.app/?username=VritraSecz&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
