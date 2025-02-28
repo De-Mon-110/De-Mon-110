@@ -25,10 +25,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-[`Con Stantine`](https://www.facebook.com/share/14CiLV3XLm/)
-**Don't find any meaning in this _`account`_.**  😉
-1|2|3|
-|--|--|--|
+**Fb.**  [`Con Stantine`](https://www.facebook.com/share/14CiLV3XLm/)
 <!--
 **De-Mon-110/De-Mon-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,5 +40,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**De-Mon-110/De-Mon-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Don't find any meaning in this _`account`_.**  😉
+1|2|3|
+|--|--|--|
 
