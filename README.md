@@ -52,4 +52,5 @@ Here are some ideas to get you started:
 -->
 ## Commands • 📖📚 = ✨🧠✨
 1. [`Basic-Commands`](https://github.com/De-Mon-110/Basic-Commands) , 2.
-[`Intermediate-Commands`](https://github.com/De-Mon-110/Intermediate-Commands) , 3.……
+[`Intermediate-Commands`](https://github.com/De-Mon-110/Intermediate-Commands) ,
+instagram stae in war
